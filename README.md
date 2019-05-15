@@ -1,4 +1,4 @@
-# mink
+# Gopher Mink
 Rapid, DDD service development written in Go
 
 Inspired by  
