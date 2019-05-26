@@ -8,7 +8,7 @@ https://code.tutsplus.com/tutorials/lets-go-command-line-programs-with-golang--c
 https://github.com/ponzu-cms/ponzu
 
 ## Feature (todo)
-- Vue for frontend
+- Vue for frontend (quasar)
 - Realtime application use Beaver
 - Command line tool
 - Code Generator (both backend, frontend, document, migration)
