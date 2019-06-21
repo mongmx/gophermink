@@ -13,5 +13,6 @@ https://github.com/ponzu-cms/ponzu
 - Command line tool
 - Code Generator (both backend, frontend, document, migration)
 - Make OpenAPI Document (go-swagger, apidoc.js, kommentaar)
+- Testing (testify, mockery)
 - Use Docker, Postgres, Redis
 - CI/CD
